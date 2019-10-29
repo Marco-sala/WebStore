@@ -61,7 +61,7 @@ public class EmployeeController {
         if(currentEmployee != null){
             return "maintenance";
         } else {
-            return "employee-login";
+            return "error";
         }
 
     }
