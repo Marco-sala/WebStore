@@ -1,0 +1,11 @@
+insert into employee values ('74589658', 'Hans', 'Velazco', 'Olaya', '123456', 'administrador');
+insert into employee values ('96582145', 'Ricardo', 'Fernandez', 'Salcedo', '123456', 'colaborador');
+insert into product values ('941525174', 'Zapatillas Pegasus Nike', 'Zapatillas de entrenamiento negras modelo Pegasus de Nike de la talla 43.', 80.0, 'img/nikepegasus.jpg', 'Zapatillas');
+insert into product values ('881505179', 'Chompa NewPort', 'Chompa Marca NewPort para varón con manga larga de estilo casual.', 25.0, 'img/chompanewport.jpg', 'Chompas');
+insert into product values ('163842564', 'Jean J.Crew', 'Jean Marca J.Crew para varón de algodón y de estilo casual.', 230.0, 'img/jeanjcrew.jpg', 'Jeans');
+insert into sale values (1, '2019-04-12', 'Pendiente', 2);
+insert into sale values (2, '2019-07-22', 'Pendiente', 1);
+insert into sale values (3, '2019-05-17', 'Pendiente', 1);
+insert into customer values ('84512547', 'Fernando', 'Salcedo', 'Minaya', 'fersalc99@gmail.com', '123456', 'San Juan de Miraflores', '1999-04-12');
+insert into customer values ('14523652', 'Alicia', 'Huamaní', 'Cardenas', 'alicia@gmail.com', '123456', 'San Isidro', '1994-03-08');
+insert into customer values ('25478541', 'María', 'García', 'Costa', 'mari95@gmail.com', '123456', 'La Molina', '1995-03-01');
